@@ -32,7 +32,7 @@ choice = int(choice)
 ### Take action as per selected menu-option ###
 if choice == 1:
         print ("Generador bin validos...") 
-        os.system("python2 cc-genpro")
+        os.system("python2 cc-genpro.py")
         time.sleep(3)
 
 elif choice == 2:
