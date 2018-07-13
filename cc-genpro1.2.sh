@@ -12,7 +12,7 @@ echo "Actualizacion terminada"
 echo "Descargando cc-genpro1.2 V#actualizada"
 sleep 3
 
-git clone https://github.com/HackeRStrategy/cc-genpro1.2.git;cd cc-genpro1.2; chmod +x cc-genpro1.2.py ; python2 cc-genpro1.2py
+git clone https://github.com/HackeRStrategy/cc-genpro1.2.git
 
 echo "Instalacion Finalizada"
 echo "para ingresar de nuevo digite cd cc-genpro1.2"
