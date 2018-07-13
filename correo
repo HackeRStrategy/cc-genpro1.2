@@ -1,0 +1,9 @@
+#!bin/bash
+#12/07/2018
+#Mail Gen
+echo -e "\e[1;33mGENERANDO CORREO TEMPORAL\e[0m"
+sleep 3
+echo ""
+echo -e "\e[1;32mPARA SALIR DEL CORREO DIGITAR [ Q ] \e[0m"
+sleep 3
+w3m https://tempmail.net/

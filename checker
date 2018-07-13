@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+from urllib2 import *
+from platform import system
+import sys
+import json
+dz = raw_input('\033[92mINGRESA TU BIN: \033[93m')
+whois = "https://lookup.binlist.net/" + dz
+dev = urlopen(whois).read()
+print dev

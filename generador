@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import os
+exit ()
+ok = raw_input("INGRESA EL BIN: ")
+os.system("python2 cc-genpro.py")

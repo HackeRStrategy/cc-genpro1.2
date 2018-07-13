@@ -1,0 +1,8 @@
+#!bin/bash
+#Creditos
+echo -e "\e[1;32mCREDITOS AL CREADOR...!"
+echo "Created by: Real Strategy "
+echo "Date: 12/07/2018"
+echo "Telegram: t.me/RealHackRWAM "
+echo "Youtube: https://youtube.com/RealHackRWAM "
+echo -e "\e[1;33mMensaje: \e[1;36mNunca dejes de aprender\e[0m"

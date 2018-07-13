@@ -1,0 +1,7 @@
+#!bin/bash
+#####
+echo "================================================="
+echo -e "\033[1;31m PEGUE AQUI LOS BINS A GUARDAR\033[0m"
+echo -e "\033[1;33m para salir del guardado, digite ctrl + c \033[0m"
+echo "================================================="
+cat >Binguardados.txt
