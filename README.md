@@ -20,12 +20,6 @@
 <li>cd cc-genpro1.2 </lo>
 <li>python2 cc-genpro1.2 </lo>
 
-<h2>HERRAMIENTAS</h2>
-<li>Generador de tarjetas normal/rapido </lo>
-<li>Generador de correo temporal (En prueba)</lo>
-<li>Checker de bin </lo>
-<li>Ahora puedes guardar tus resultados </lo>
-
 <h2>TUTORIAL DETALLADO</h2>
 <li>Tutorial: https://todoreal.com/como-instalar-el-generador-cc-genpro1-2-en-termux/</lo>
 
