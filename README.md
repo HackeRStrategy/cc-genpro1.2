@@ -25,7 +25,7 @@
 
 ***
 
-DEMO - [Open Here](https://realstrategy.github.io/CC-GENPRO/)
+DEMO WEB - [Open Here](https://cc-genpro.com)
 ![alt text](https://raw.githubusercontent.com/RealStrategy/realstrategy.github.io/main/CC-GENPROV1/ccgenpro.png)
 ---
 
