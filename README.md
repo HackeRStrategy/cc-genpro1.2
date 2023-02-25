@@ -8,11 +8,6 @@
 
 <b>Generador de tarjetas usando el algoritmo de Luhn. Versiones anteriores se crearon en lenguaje python. La actual y tercera version es para paginas web. Para abarcar mayor plataforma y no solo en variantes GNU/Linux </b>
 
----
-
-DEMO WEB - [Open Here](https://cc-genpro.com)
-![alt text](https://raw.githubusercontent.com/RealStrategy/realstrategy.github.io/main/CC-GENPROV1/ccgenpro.png)
-
 <h2>NECESARIO PKG</h2>
 <li>apt update && apt upgrade -y </lo>
 <li>pkg install git -y </lo>
@@ -29,5 +24,7 @@ DEMO WEB - [Open Here](https://cc-genpro.com)
 <li>Tutorial: https://todoreal.com/como-instalar-el-generador-cc-genpro1-2-en-termux/</lo>
 
 ***
+***
+GEN V3.0 - [Open Here](https://cc-genpro.com)
 
 <h4 align='center'> © 2023 @RealStrategy <h4>
